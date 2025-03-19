@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-# Java
+# Esse é apenas um teste 
